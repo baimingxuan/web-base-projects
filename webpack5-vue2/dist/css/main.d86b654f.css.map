@@ -1,0 +1,1 @@
+{"version":3,"file":"css/main.d86b654f.css","mappings":"AAAA,4BAEE,kBAAmB,CAEnB,WAAY,CAHZ,YAAa,CAEb,sBAEF","sources":["webpack://webpack-vue2/main.d86b654f.css"],"sourcesContent":[".container[data-v-7ba5bd90] {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  color: brown;\n}\n\n"],"names":[],"sourceRoot":""}
